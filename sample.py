@@ -1,2 +1,3 @@
 l1 = list(range(0,100))
-print(l1)
+for i in l1:
+    print(l1)
